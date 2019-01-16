@@ -1,0 +1,180 @@
+{
+    "Vehicles":[
+        {
+            "id": 0,
+            "name": "SEWP V",
+            "longName": "Solutions for Enterprise-Wide Procurement GWAC Government Wide Acquisition Contract",
+            "url": "http://www.sewp.nasa.gov/index.shtml",
+            "scope": "Category B: Group D: Network Devices, Computer Security Tools and Advanced Video and Conference Tools.Complementary products, services enhancing, and supporting computer system functions: network environments in terms of networking and computer security with support of audio-visual related requirements.",
+            "contact": "Glenn Sain",
+            "logo": "img/vehicles/sewp-v-logo.png",
+            "overview": "NASA SEWP V (Solutions for Enterprise-Wide Procurement) is a multi-award Government-Wide Acquisition Contract (GWAC) vehicle, focused on IT products, equipment, technology and product-based services for all Federal Agencies. SEWP offers low prices (generally below GSA schedule prices), the lowest surcharge and the easiest and fastest ordering procedure, using pre-competed contracts. All Points offers a wide range of advanced technology, including tablets, desktops and servers; IT peripherals; network equipment; storage systems; security tools; software products; cloud based services; video conferencing systems and other IT and Audio-Visual products. Product-based services such as installation, training, maintenance and warranty are also available through SEWP V: sewpv@allpointsllc.com.",
+            "contractInfo": {
+                "contractNumber": "NNG15SC25B",
+                "contacts": [
+                    {
+                        "name": "Andrea Payne",
+                        "title": "Program Manager",
+                        "phone": "(703) 483-2800"
+           
+                    },
+                    {
+                        "name": "Dan Via",
+                        "title": "Inside Sales Manager",
+                        "phone": "(202) 525-0450"
+           
+                    }
+                ]
+            }
+        },
+        {
+            "id": 1,
+            "name": "CMS SPARC",
+            "longName": "Strategic Partners Acquisition Readiness",
+            "url": "https://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/SPARC/index.html",
+            "scope": "CMS (Centers for Medicare & Medicate) Services Strategic Partners Acquisition Readiness Contract (SPARC) provides strategic, technical, and program management guidance and support services, to facilitate the modernization of CMS business processes and supporting systems. SPARC is a multiple award, Indefinite Delivery/Indefinite Quantity (IDIQ), performance-based contract. It is available to all components within Centers for Medicare & Medicaid Services (CMS) and all Health and Human Services (HHS) Operating Divisions to procure IT System development services, from end to end.",
+            "contact": "John Hodge",
+            "logo": "img/vehicles/CMS-SPARC_logo.png",
+            "overview": "The Strategic Partners Acquisition Readiness Contract (SPARC) is a cost-effective, innovative solution for procuring information technology (IT) professional services from a pool of Centers for Medicare & Medicaid Services (CMS) experienced partners. The purpose of this contract is to provide strategic, technical, and program management guidance and support services, to facilitate the modernization of CMS business processes and supporting systems. SPARC is a multiple award, Indefinite Delivery/Indefinite Quantity (IDIQ), performance-based contract. It is available to all components within Centers for Medicare & Medicaid Services (CMS) and all Health and Human Services (HHS) Operating Divisions to procure IT System development services from end to end.For more information about the CMS SPARC contract, contact us at CMS-SPARC@allpointsllc.com.",
+            "contractInfo": {
+                "contractNumber": " HHSM-500-2017-000071",
+                "Agency Sponser": "Department of Health and Human Services (HHS), Centers for Medicare and Medicaid Services (CMS)",
+                "Period of Contract": "6/8/2016 to 6/7/2021",
+                "Type of Contract": " Agency Wide Acquisition Contract – IDIQ Multiple Award",
+                "Available To":  "All components within CMS and all HHS Operating Divisions",
+                "Pool Qualification":  "Service Disabled Veteran, Small Business, Unrestricted",
+                "DUNS #":   "96-845-7591",
+                "Cage Code":  "1NP28",
+                "contacts": [
+                    {
+                        "name": "John Hoge",
+                        "title": "Vice President, Healthcare Solutions Group",
+                        "phone": "(443) 223-1850",
+                        "email": "jhoge@allpointsllc.com"
+           
+                    }
+
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "name": "GSA 70",
+            "longName": "General Services Administration Schedule 70 Information Technology",
+            "url": "http://www.sewp.nasa.gov/index.shtml",
+            "scope": "Cloud, Cybersecurity, Data Center Services, Green IT, Hardware Products and Services, Professional IT Services, Software Products and Services, Telecommunications, Telepresence",
+            "contact": "Glenn Sain",
+            "logo": "img/vehicles/gsa.png",
+            "overview": "IT Schedule 70 is the largest, most widely used acquisition vehicle in the Federal Government. Known as a Multiple Award Schedule, IT Schedule 70 grants agencies direct access to commercial experts like All Points who can thoroughly address the needs of the government IT community through Special Item Numbers (SINS). Schedule 70 allows for choice, flexibility, ease of use and access to the highest quality IT products, services and solutions from more than 5,000 certified industry partners. Local, state and federal government agencies can work closely with All Points to obtain fair, reasonable and approved pricing and license terms.",
+            "contractInfo": {
+                "contractNumber": "NNG15SC25B",
+                "contacts": [
+                    {
+                        "name": "Andrea Payne",
+                        "title": "Program Manager",
+                        "phone": "(703) 483-2800"
+           
+                    },
+                    {
+                        "name": "Dan Via",
+                        "title": "Inside Sales Manager",
+                        "phone": "(202) 525-0450"
+           
+                    }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "name": "VA-CEC",
+            "longName": "Veterans Affairs Commodity Enterprise Contract",
+            "url": "http://www.allpointsllc.com/va-cec",
+            "scope": "Information Technology (IT) enterprise architecture, including end-user appliances (such as laptops and thin clients), mobile tablets, servers, switches/routers, storage arrays/storage appliances, and security platforms",
+            "contact": "Andrea Payne",
+            "logo": "img/vehicles/veteran-affairs-logo.png",
+            "overview": "CEC (Commodities Enterprise Contract) The VA CEC aims to improve enterprise efficiency through the standardization of IT. VA CEC is a multiple award contract that will allow the agency to take advantage of technological advances and new business practices that promise to increase productivity and/or reduce costs while ensuring interoperability with the VA’s existing hardware infrastructure. Leveraging our extensive VA enterprise knowledge, strong network of product delivery relationships, and unequaled experience as a commodities and solutions provider, All Points delivers economically feasible, quality products and solutions to the VA, while providing strategic and tactical knowledge and established management policies and practices. IT hardware available for purchase through CEC includes laptops, thin clients, and mobile tablets, servers, networking appliances, storage arrays/storage appliances and security platforms. Services include installation, warranty support and incidental technical support services.",
+            "contractInfo": {
+                "contractNumber": "NNG15SC25B",
+                "contacts": [
+                    {
+                        "name": "Andrea Payne",
+                        "title": "Program Manager",
+                        "phone": "(703) 483-2800"
+           
+                    },
+                    {
+                        "name": "Dan Via",
+                        "title": "Inside Sales Manager",
+                        "phone": "(202) 525-0450"
+           
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "name": "VETS 2",
+            "longName": "GSA VETS 2",
+            "url": "https://www.gsa.gov/technology/technology-purchasing-programs/governmentwide-acquisition-contracts/vets-2-governmentwide-acquisition-contract-gwac",
+            "scope": "This scope is not spelled out yet",
+            "contact": "Glenn Sain",
+            "logo": "img/vehicles/vets2.png",
+            "overview": "General Services Administration (GSA) Veterans Technology Services 2 (VETS 2) is a multiple award, Indefinite-Delivery, Indefinite-Quantity (IDIQ) service-Disabled, Veteran-Owned Small Business (SDVOSB) set-aside contract which provides customized Information Technology (IT) services and IT services-based solutions. IT hardware available for purchase through CEC includes laptops, thin clients, and mobile tablets, servers, networking appliances, storage arrays/storage appliances and security platforms. Services include installation, warranty support and incidental technical support services.",
+            "contractInfo": {
+                "contractNumber": "7QTCH18D0003",
+                "Agency Sponser": "GSA",
+                "Period of Contract": " Five-year period of performance with five-year option to extend services for a total of ten contract years",
+                "Type of Contract": "Fixed-Price (all-types), Cost-Reimbursement (all types), T&M or Labor-Hour",
+                "DUNS #": "96-845-1591",
+                "Cage Code": "1NP28",
+                "contacts": [
+                    {
+                        "name": "Andrea Payne",
+                        "title": "Program Manager",
+                        "phone": "(703) 483-2800"
+           
+                    },
+                    {
+                        "name": "Dan Via",
+                        "title": "Inside Sales Manager",
+                        "phone": "(202) 525-0450"
+           
+                    }
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "name": "CIO-SP3 SB",
+            "longName": "CIO-SP3 Small Business",
+            "url": "http://www.allpointsllc.com/va-cec",
+            "scope": "The Scope is not yet filled out",
+            "contact": "Ed Scarborough",
+            "logo": "img/vehicles/ciosp3.png",
+            "overview": "CIO-SP3 SB is designed to permit the Institutes and Centers (ICs) of NIH, the Department of Health and Human Services (DHHS), and all other federal agencies to acquire a wide range of IT services and solutions, both commercial and non-commercial. These IT services include, but are not limited to, health, health science and biomedical-related IT services to meet scientific, health, administrative, operational, managerial, and information management requirements. The contract also contains general IT services partly because healthcare systems are increasingly integrated within a broader IT architecture, requiring a systems approach to their implementation and a sound infrastructure for their operation. The focus of CIO-SP3 SB is to provide to government agencies a mechanism for streamlined ordering of required IT solutions and services at equitable and reasonable prices, to give qualified small businesses a greater opportunity to participate in these requirements, and as a result, give government agencies a mechanism to help meet their socio-economic contracting goals.",
+            "contractInfo": {
+                "Contract Number": "HHSN316201800063W",
+                "Period of Contract": "09/24/2018 to 04/29/2022",
+                "Type of Contract": "IDIQ Multiple Award Small Business",
+                "DUNS #": "96-845-1591",
+                "Doing Business As": "All Points",
+                "Business Size(s)": "SDVOSB",
+                "Contract Type": "IDIQ Multiple Award Small Business",
+                "contacts": [
+                    {
+                        "name": "Andrea Payne",
+                        "title": "Program Manager",
+                        "phone": "(703) 483-2800"
+           
+                    },
+                    {
+                        "name": "Dan Via",
+                        "title": "Inside Sales Manager",
+                        "phone": "(202) 525-0450"
+           
+                    }
+                ]
+            }
+        }
+    ]
+}

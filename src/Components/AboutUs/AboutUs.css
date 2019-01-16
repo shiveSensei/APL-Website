@@ -1,0 +1,21 @@
+/* ===================================================================
+ * # ABoutUS Animations 
+ *
+ * ------------------------------------------------------------------- */
+
+ .slide{
+    animation: slide 1s ease-in forwards
+}
+
+@keyframes slide {
+    0%{
+        transform: translateY(80px);
+        opacity: 0;
+
+    }
+    100% {
+        transform: translateX(0px);
+        opacity: 100;
+
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "Leaders":[
+        {
+            "id": 0,
+            "name": "Phil Monkress",
+            "position": "President/CEO",
+            "image":"phil_monkress",
+            "about":"Phil drives the company’s strategic and financial direction as head of All Point’s Executive Leadership Team and  a leader in providing best-in-class products, services, and solutions to the Government and commercial marketplace.",
+            "extra":"Prior to All Points, Phil served as a Field engineer for KPMG performing various roles as a consultant supporting multiple clients in various IT environments across the U.S. and abroad. In 1999, Phil joined All Points as Chief Operating Officer (COO).  In 2009, he assumed full ownership of the company as President and Chief Executive Officer.  Phil is credited with and was instrumental in All Points’ significant growth into a multi-million dollar corporation, supporting and supplying large Government contracts.  A U.S. Navy veteran, Phil received a Bachelor of Science degree in Technical and Industrial Education from Valdosta State University."
+        },
+        {
+            "id": 1,
+            "name": "Tom Niemeyer",
+            "position": "Chief Operating Officer",
+            "image":"tom_niemeyer",
+            "about":"Tom currently serves as Chief Operating Officer of All Points and serves on the Executive Leadership Team to provide guidance and direction across All Points’ business units to effectively serve a diverse set of federal customers.",
+            "extra":"Prior to joining All Points, Tom served as InDyne’s Corporate Programs Manager, an Associate Partner for a escottVentures  and as a Propulsion Engineer and Mission Integration Manager for NASA. Tom served as the Kennedy Integrated Communications Services (KICS) Program Manager providing mission critical IT services.  Tom maintains a Program Management Professional (PMP-PMI) Certification and is a Lean Six Sigma Black Belt. Tom earned a Bachelor of Science in Aerospace Engineering from the University of Florida, a Master of Science in Industrial Engineering from the University of Central Florida, and a Master of Business Administration (MBA) from the Florida Institute of Technology."
+        },
+        {
+            "id": 2,
+            "name": "Ben Farrah",
+            "position": "Chief Financial Officer",
+            "image":"ben_farrah",
+            "about":"Ben serves as the Chief Financial Officer and a member of the Executive Leadership Team. In his role, he serves as a Senior Adviser for Finance and Business Strategy to the Chief Executive Officer and is responsible for all accounting, finance, and contracts operations. Ben is a Certified Public Accountant with over thirty years of government contracting experience. Prior to joining All Points, Ben served as CFO for Information International Associates. He also spent thirteen years as Senior Vice President and CFO at International Resources Group, an Engility company, as well as, an auditor with the Defense Contract Audit Agency.",
+            "extra":"Ben received a Bachelor of Science degree in Accounting from Christopher Newport College in Newport News, Virginia, and a Master of Taxation degree from George Washington University in Washington, DC. He is a member of the American Institute of Certified Accountants and is a Chartered Global Management Accountant."
+        },
+        {
+            "id": 3,
+            "name": "Robyn Smith",
+            "position": "Chief Administrative Officer",
+            "image":"robyn_smith",
+            "about":"Robyn currently serves as Chief Administrative Officer and serves on the Executive Leadership Team to provide day to day administrative operations including accounting, financial reporting, human resources and strategic workforce recruitment, planning, and management.  Robyn joined All Points in 2003 and has extensive experience driving growth, talent acquisition, and strategic planning.",
+            "extra":"Prior to joining All Points in 2003, she held leadership positions as Director of Human Resources and Accounting at Jefferson Randolph Corporation and as a Human Resource professional at Scott Bridge Company. Robyn is Senior Professional Human Resource (SPHR) certified, holds a Bachelor of Science in Hospital Administration from Huntingdon College, and an MBA with an emphasis in Human Resources from Brenau University."
+        },
+        {
+            "id": 4,
+            "name": "Steve Lloyd",
+            "position": "Chief Development Officer",
+            "image":"steve_lloyd",
+            "about":"Steve serves as the Chief Development Officer and on the Executive Leadership Team for corporate oversight. In his role as Chief Development Officer, his responsibilities include leadership and operational oversight of the company’s portfolio of contracts, to include contracts management.",
+            "extra":"Prior to joining All Points in 2012, Steve spent over 25 years working extensively on NASA’s Space Shuttle Program at Kennedy Space Center, first with Lockheed Martin and later with United Space Alliance in a variety of technical, management and leadership roles. Steve also supported business development and evolving space program activities. Steve holds a Bachelor of Science in Engineering from the University of Central Florida."
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+.client {
+    width: 205px;
+    opacity: .55;
+    -webkit-transition: opacity 0.5s ease-in-out;
+    transition: opacity 0.5s ease-in-out;
+}
+.client:hover {
+    opacity: 1;
+    
+
+}
