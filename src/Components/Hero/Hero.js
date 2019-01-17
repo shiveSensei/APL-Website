@@ -13,18 +13,19 @@ import CMMI from '../../img/Logos/CMMI2.png'
 import styles from '../Hero/styles'
 
 function Hero(props) {
-  const {classes } = props;
-  console.log(classes)
+  const {classes, scroll } = props;
+  //console.log(props.scrollFunction)
 
   return (
-          <Grid container className={classes.root} spacing={0} >
+    <Fragment>
+      <Grid container className={classes.root} spacing={0} >
              <img className={classes.logos} src ={APL} />
               <img className={classes.logos} src ={SD} />
               <img className={classes.logos} src ={CMMI} />
               <img className={classes.logos} src ={AS} />
 
 
-           <div className={classes.overlay}></div>
+           {/* <div className={classes.overlay}></div> */}
           
             <Grid item class={`${classes.gridItem} slide` } xs={6} >
               <Typography variant="display1" color="secondary" align="left">Welcome to All Points</Typography>
@@ -39,10 +40,12 @@ function Hero(props) {
               </Typography> 
 
             </Grid>
-
-           
-              <div class="home-content-line"></div>
+          
           </Grid>
+          <Button className={classes.scrollText} onClick={() =>scroll("about")}>v scroll down</Button>
+          <div className={classes.scrollLine}></div>
+    </Fragment>
+          
         
    
   );

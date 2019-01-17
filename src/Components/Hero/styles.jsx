@@ -1,6 +1,6 @@
 const styles = theme => ({
     root:{
-      backgroundImage: `url('../../img/home/hero.jpg')`,
+      backgroundImage: `url('../../img/home/heroCopy.jpg')`,
       flexGrow: 1,
       backgroundSize: 'cover',
       minHeight: '100vh'
@@ -40,6 +40,22 @@ const styles = theme => ({
       //padding: 0rem 0rem 0rem 0rem,
       position: 'relative',
       overflow: 'hidden'
+    },
+    scrollLine:{
+      width: "2px",
+      height: "200px",
+      backgroundColor: "red",
+      position: "absolute",
+      right: "6em",
+      margin: "-6em 0 0 0"
+
+    },
+    scrollText:{
+      position: "absolute",
+      right: "8em",
+      margin: "-6em 0 0 0",
+      color: "white"
+
     }
   
   });
