@@ -6,12 +6,12 @@ const styles = theme => ({
       minHeight: '100vh'
     },
     logos:{
-      height: "100px",
+      maxHeight: "100px",
       zIndex: 999999
     },
     gridItem:{
       fload: 'left',
-      padding:"24rem 0rem 0rem 10rem",
+      padding:"0rem 0rem 0rem 10rem",
       [theme.breakpoints.down("sm")]:{
           padding:"5rem 1rem 0 1rem"
       },
@@ -19,7 +19,7 @@ const styles = theme => ({
         padding:"12rem 0rem 0rem 5rem"
       },
       [theme.breakpoints.up("lg")]:{
-        padding:"24rem 0rem 0rem 10rem"
+        padding:"0rem 0rem 0rem 10rem"
       },
     },
     overlay:{

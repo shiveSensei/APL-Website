@@ -16,6 +16,7 @@ const theme = createMuiTheme({
     overrides: {
         MuiTypography: {
             h1:{
+                fontSize:"5rem",
                [breakpoints.down("xs")]:{
                    fontSize:"3rem"
                },
