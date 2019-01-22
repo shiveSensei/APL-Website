@@ -1,0 +1,39 @@
+{
+    "Jobs":[
+        {
+            "id": 0,
+            "title": "IT Support/Help Desk",
+            "location":"Kennedy Space Center , Florida",
+            "type":"Direct Placement",
+            "posted":"1/1/2019",
+            "description":[
+                {
+                    "duty":"Adding new users to the system(s) and maintain groups/permissions"
+                },
+                {
+                    "duty":"Managing user authentication and syncing with Windows password updates"
+                },
+                {
+                    "duty":"Install new software packages on all computers synchronously"
+                },
+                {
+                    "duty":"Push software package and OS updates to all computers synchronously (including VMs)"
+                },
+                {
+                    "duty":"Managing user authentication and syncing with Windows password updates"
+                }
+            ],
+            "skills":[
+                {
+                    "skill":"Experience with the Linux OS and common Linux applications"
+                },
+                {
+                    "skill":"Ability to write basic utility shell scripts"
+                },
+                {
+                    "skill":"Knowledge of Linux security fundamentals"
+                }
+            ]
+        }  
+    ]    
+}
